@@ -1,7 +1,6 @@
-
 body{
-	background-color:rgba(10,10,10,.8);;
-}
+	background-color:red;
+	}
 
 header{
 	background-color:rgba(10,10,10,.3);
@@ -16,13 +15,15 @@ header{
 
 h1 { font-family: 'Lusitana', serif; 
 	font-weight: 700;
-	color: white; 
+	color: #2E2E2E; 
 	text-align: center;
+	font-size: 40px;
 }
 
 h2{ font-family: 'Lusitana', serif; 
 	font-weight: 700;
-	color: white;
+	color: #2E2E2E;
+	font-size: 20px;
 }
 
 .contenedor{
@@ -33,17 +34,17 @@ h2{ font-family: 'Lusitana', serif;
 
 }
 
+
 .contenedor p{
 	font-family: 'Lusitana', serif; 
 	font-weight: 400;
-	font-size: 12pt;
-	color: white;
+	font-size: 15px;
+	color:#1C1C1C;
 	line-height: 150%;
 }
 
 img{
-	width:800px;
+	width:1000px;
 
 }
-
 
